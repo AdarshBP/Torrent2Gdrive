@@ -30,6 +30,9 @@ git clone https://github.com/your-username/torrent-downloader-colab.git
     Go to https://colab.research.google.com/.
     Click "File" -> "Open notebook" -> "Upload notebook".
     Select the torrent_downloader.ipynb file (or the equivalent filename you've used).
+
+    ![Overview](/assests/overview.jpg)
+
 3. Mount Google Drive (Run the First Code Block):
 
     The first code block in the notebook handles mounting your Google Drive securely. Follow the on-screen instructions to authenticate.
@@ -40,9 +43,14 @@ git clone https://github.com/your-username/torrent-downloader-colab.git
     Using a .torrent file: Upload the file to your Google Drive and provide its path within the code block.
     Using a magnet link: Paste the magnet link directly into the designated code block.
 
+
+    ![Step1](/assests/Step1.jpg)
+
 5. Run the Scripts (One Cell at a Time):
 
     Execute the code cells sequentially (top to bottom) to initiate the download process.
+
+    ![Step2](/assests/Step2.jpg)
 
 ## Additional Notes:
 
