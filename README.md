@@ -50,7 +50,7 @@ git clone https://github.com/your-username/torrent-downloader-colab.git
 
     Execute the code cells sequentially (top to bottom) to initiate the download process.
 
-    ![Step2](/assests/Step2.jpg)
+    ![Step2](/assests/Step3.jpg)
 
 ## Additional Notes:
 
