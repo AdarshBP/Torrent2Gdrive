@@ -4,6 +4,8 @@ This project automates the process of downloading torrent data to your Google Dr
 
 Disclaimer: Downloading copyrighted materials without permission is illegal. This project is intended for educational purposes only. Please ensure you have the necessary rights to download any torrent files you use.
 
+[Open Torrent2Drive.ipynb in Google Colab](https://colab.research.google.com/github/AdarshBP/Torrent2Gdrive/blob/main/Torrent2Drive.ipynb)
+
 
 ## Features:
 
